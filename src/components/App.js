@@ -1,6 +1,6 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import Card from ./components/Card
+import Card from "./components/Card"
 
 const App = () => {
   return (
