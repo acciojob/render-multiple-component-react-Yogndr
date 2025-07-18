@@ -5,8 +5,8 @@ import Card from "./components/Card"
 const App = () => {
   return (
     <div id="main">
-    <Card name="ABC" desc="My ame is knmjs"  />
-    <Card name="DEF" desc="bsn hjwbd qwnd"  />
+    <Card name="E-commerce" desc="A React project to build an e-commerce UI"  />
+    <Card name="Weather App" desc="Displays weather using API"  />
     </div>
   )
 }
